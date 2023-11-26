@@ -11,7 +11,7 @@ import SwiftUI
 struct ShowchatApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabView()
         }
     }
 }
